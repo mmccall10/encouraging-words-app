@@ -1,6 +1,6 @@
-# Encourging Words App
+# Encouraging Words App
 
-Sends scheduled text messages containging words of encouragment to an SNS topic. 
+Sends scheduled text messages containing words of encouragment to an SNS topic. 
 
 ## Useful commands
 
