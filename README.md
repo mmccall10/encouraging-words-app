@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# Enourging Words App
 
-This is a blank project for TypeScript development with CDK.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Sends scheduled text messages containging words of encouragment to an SNS topic. 
 
 ## Useful commands
 

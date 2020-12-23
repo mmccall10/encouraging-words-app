@@ -4,4 +4,4 @@ import * as cdk from '@aws-cdk/core';
 import { EncouragingWordsStack } from '../lib/encouraging-words-stack';
 
 const app = new cdk.App();
-new EncouragingWordsStack(app, 'EncouragingWordsStack');
+new EncouragingWordsStack(app, 'EncouragingWordsStack', {env: {region: 'us-west-2'}});
