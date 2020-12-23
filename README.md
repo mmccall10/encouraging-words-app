@@ -1,4 +1,4 @@
-# Enourging Words App
+# Encourging Words App
 
 Sends scheduled text messages containging words of encouragment to an SNS topic. 
 
